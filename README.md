@@ -4,3 +4,4 @@
 # ed-struct-class
 # ed-struct-class
 # class
+# class
